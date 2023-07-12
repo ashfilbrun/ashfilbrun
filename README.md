@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects will soon be available at [https://www.ashlanfilbrun.com/](https://www.ashlanfilbrun.com/)
 
-- 📫 How to reach me **message me on LinkedIn!**
+- 📫 How to reach me **message me on <a href="https://www.linkedin.com/in/ashlanfilbrun/>LinkedIn!</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
