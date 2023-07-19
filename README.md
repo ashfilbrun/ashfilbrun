@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a chronic-health tracking app**
 
-- 🌱 I’m currently learning **JavaScript, Mongoose, Express, React, & Python!**
+- 🌱 I’m currently learning **JavaScript, Mongoose, Express, React, Python, & Django!**
 
 - 👨‍💻 All of my projects will soon be available at [https://www.ashlanfilbrun.com/](https://www.ashlanfilbrun.com/)
 
