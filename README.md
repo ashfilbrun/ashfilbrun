@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfilbrun" alt="ashfilbrun" /></a> </p>
 
-- 🔭 I’m currently working on **a chronic-health tracking app**
+- 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **JavaScript, Mongoose, Express, React, Python, & Django!**
 
