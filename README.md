@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, 👋 I'm Ashlan Filbrun</h1>
-<h3 align="center">A passionate frontend developer from sunny Arizona</h3>
+<h3 align="center">A passionate Full-Stack Developer from sunny Arizona</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfilbrun" alt="ashfilbrun" /></a> </p>
 
