@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **JavaScript, Mongoose, Express, React, Python, & Django!**
 
-- 👨‍💻 All of my projects will soon be available on my portfolio  /*[https://www.ashlanfilbrun.com/](https://www.ashlanfilbrun.com/)*/
-
+- 👨‍💻 All of my projects will soon be available on my portfolio
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
