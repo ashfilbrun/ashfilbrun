@@ -13,7 +13,7 @@
 <p align="left">
 </p>
 
-- 📫 You can reach me by messaging me on **message me on <a href="https://www.linkedin.com/in/ashlanfilbrun/">LinkedIn!</a>**
+- 📫 You can reach me by **messaging me on <a href="https://www.linkedin.com/in/ashlanfilbrun/">LinkedIn!</a>**
 
 
 <h3 align="left">Languages and Tools:</h3>
