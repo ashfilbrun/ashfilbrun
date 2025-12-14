@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a chronic-illness tracking app**
 
-- 🌱 I’m currently learning **JavaScript, Mongoose, Express, React, Python, & Django!**
+- 🌱 I’m currently learning **C#, SQL, & Javascript!**
 
 - 👨‍💻 All of my projects will soon be available on my portfolio
   
