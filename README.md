@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a chronic-illness tracking app**
 
-- 🌱 I’m currently learning **C#, SQL, & Javascript!**
+- 🌱 I’m currently expanding my knowledge of **C#, CRM Development, and Game Development!**
 
 - 👨‍💻 All of my projects will soon be available on my portfolio
   
